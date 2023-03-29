@@ -1,4 +1,4 @@
-# Teste Tecnico  QuickDev
+
 
 
 Para rodar o Server: Npm Start
